@@ -1,0 +1,2 @@
+defmodule Instatweet do
+end
